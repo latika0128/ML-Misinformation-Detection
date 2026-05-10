@@ -1,4 +1,4 @@
-##📰 Misinformation Detection using Machine Learning
+## 📰 Misinformation Detection using Machine Learning
 
 Fake News Detection System using Machine Learning, NLP, TF-IDF, Sentiment Analysis, and Logistic Regression.
 
