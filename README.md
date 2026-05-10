@@ -80,3 +80,13 @@ Model Training (Logistic Regression)
 Model Evaluation
        ↓
 Prediction of Fake / Real News
+---
+## 🧹 Data Preprocessing
+
+The following preprocessing techniques were applied:
+
+Lowercase conversion
+Removal of punctuation & special characters
+Stopword handling
+Text cleaning
+Missing value removal
