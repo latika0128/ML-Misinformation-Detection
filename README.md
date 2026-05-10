@@ -1,12 +1,12 @@
-📰 Misinformation Detection using Machine Learning
+##📰 Misinformation Detection using Machine Learning
 
 Fake News Detection System using Machine Learning, NLP, TF-IDF, Sentiment Analysis, and Logistic Regression.
 
-📖 Overview
+##📖 Overview
 
 Misinformation spread through digital media has become a major challenge in today’s world. This project aims to automatically classify news articles as Real or Fake using Machine Learning and Natural Language Processing (NLP) techniques.
 
-The project uses the GossipCop Dataset and applies:
+##The project uses the GossipCop Dataset and applies:
 
 Text preprocessing
 TF-IDF feature extraction
@@ -16,7 +16,7 @@ Logistic Regression classification
 
 The model learns textual patterns and writing styles commonly found in fake and real news articles.
 
-✨ Key Features
+##✨ Key Features
 
 ✔️ Fake News Detection using ML
 ✔️ NLP-based text preprocessing
@@ -28,7 +28,7 @@ The model learns textual patterns and writing styles commonly found in fake and 
 ✔️ Learning Curve Visualization
 Visualization
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Technology	Purpose
 Python	Programming Language
 Pandas	Data Manipulation
@@ -38,7 +38,8 @@ NLTK	NLP Processing
 TextStat	Readability Analysis
 Matplotlib	Data Visualization
 Joblib	Model Saving
-📂 Dataset
+
+##📂 Dataset
 
 The project uses the GossipCop Fake News Dataset:
 
@@ -51,7 +52,8 @@ Assigned labels:
 0 → Fake News
 Removed null values
 Shuffled data for unbiased training
-⚙️ Project Workflow
+
+##⚙️ Project Workflow
 Data Collection
        ↓
 Data Cleaning & Preprocessing
@@ -63,7 +65,8 @@ Model Training (Logistic Regression)
 Model Evaluation
        ↓
 Prediction of Fake / Real News
-🧹 Data Preprocessing
+
+##🧹 Data Preprocessing
 
 The following preprocessing techniques were applied:
 
@@ -72,7 +75,8 @@ Removal of punctuation & special characters
 Stopword handling
 Text cleaning
 Missing value removal
-🧠 Feature Engineering
+
+##🧠 Feature Engineering
 🔹 TF-IDF Vectorization
 
 Converts text into numerical feature vectors.
@@ -81,11 +85,13 @@ Converts text into numerical feature vectors.
 Sentiment Scores
 Readability Metrics
 Stylistic Features
-🤖 Machine Learning Model
+
+##🤖 Machine Learning Model
 Logistic Regression
 
 The project uses Logistic Regression for binary classification.
-📊 Model Evaluation
+
+##📊 Model Evaluation
 
 The model performance was evaluated using:
 
@@ -96,7 +102,8 @@ F1-Score
 Confusion Matrix
 Classification Report
 Learning Curve
-📈 Output
+
+##📈 Output
 
 The model predicts whether a news article is:
 
@@ -110,7 +117,7 @@ Model Accuracy
 Confusion Matrix
 Classification Metrics
 
-🚀 Future Enhancements
+##🚀 Future Enhancements
 Implement Deep Learning Models (LSTM, BiLSTM)
 Use Transformer Models like BERT
 Build a Web Application Interface
