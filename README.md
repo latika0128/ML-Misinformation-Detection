@@ -18,14 +18,14 @@ The model learns textual patterns and writing styles commonly found in fake and 
 
 ## ✨ Key Features
 
-- ✔️ Fake News Detection using ML
-- ✔️ NLP-based text preprocessing
-- ✔️ TF-IDF Vectorization
-- ✔️ Sentiment Analysis using VADER
-- ✔️ Readability & stylistic feature extraction
-- ✔️ Logistic Regression Classifier
-- ✔️ Confusion Matrix & Classification Report
-- ✔️ Learning Curve Visualization
+- Fake News Detection using ML
+- NLP-based text preprocessing
+- TF-IDF Vectorization
+- Sentiment Analysis using VADER
+- Readability & stylistic feature extraction
+- Logistic Regression Classifier
+- Confusion Matrix & Classification Report
+- Learning Curve Visualization
 
 
 ## 🛠️ Tech Stack
@@ -45,7 +45,7 @@ The project uses the GossipCop Fake News Dataset:
 
 - gossipcop_real.csv → Real News Articles
 - gossipcop_fake.csv → Fake News Articles
-Dataset Preparation
+- Dataset Preparation
 Merged both datasets
 Assigned labels:
 1 → Real News
