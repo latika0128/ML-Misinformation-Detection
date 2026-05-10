@@ -127,3 +127,10 @@ Learning Curves
 Model Accuracy
 Confusion Matrix
 Classification Metrics
+
+## 🚀 Future Enhancements
+Implement Deep Learning Models (LSTM, BiLSTM)
+Use Transformer Models like BERT
+Build a Web Application Interface
+Add Real-time Fake News Detection
+Support Multiple Languages
