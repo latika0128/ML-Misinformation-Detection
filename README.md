@@ -80,6 +80,7 @@ Model Training (Logistic Regression)
 Model Evaluation
        ↓
 Prediction of Fake / Real News
+```
 ---
 ## 🧹 Data Preprocessing
 
@@ -90,3 +91,39 @@ Removal of punctuation & special characters
 Stopword handling
 Text cleaning
 Missing value removal
+
+## 🧠 Feature Engineering
+🔹 TF-IDF Vectorization
+
+Converts text into numerical feature vectors.
+
+🔹 Additional Features
+Sentiment Scores
+Readability Metrics
+Stylistic Features
+
+## 📊 Model Evaluation
+
+The model performance was evaluated using:
+
+Accuracy Score
+Precision
+Recall
+F1-Score
+Confusion Matrix
+Classification Report
+Learning Curve
+
+## 📈 Output
+
+The model predicts whether a news article is:
+
+✅ Real News
+❌ Fake News
+
+The project also visualizes:
+
+Learning Curves
+Model Accuracy
+Confusion Matrix
+Classification Metrics
